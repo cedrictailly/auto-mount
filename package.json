@@ -1,0 +1,8 @@
+{
+  "name": "auto-mount",
+  "version": "1.0.0",
+  "author": "Cédric Tailly <cedric.tailly@gmail.com>",
+  "dependencies": {
+    "xml2js": "latest"
+  }
+}

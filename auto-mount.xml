@@ -1,0 +1,9 @@
+<hosts>
+  <host name="Host1">
+    <drive distant="c$" letter="w"/>
+  </host>
+  <host name="Host2">
+    <drive distant="c$" letter="x" subst="true"/>
+    <drive distant="d$" letter="y"/>
+  </host>
+</hosts>
